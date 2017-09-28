@@ -26,12 +26,11 @@
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">Speelclub</a>
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#speelclub">Speelclub</a>
                                 </h4>
                             </div>
-                            <div id="collapse1" class="panel-collapse collapse in">
+                            <div id="speelclub" class="panel-collapse collapse in">
                                 <div class="panel-body">
-                                <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                 <ul>
                                     <li>Geboortejaar: 2009-2011</li>
                                     <li>1e, 2e en 3e leerjaar</li>
@@ -62,7 +61,6 @@
                                 </li>
 
                                 </ul>
-                                </div>
                                 </div>
                             </div>
                         </div>
