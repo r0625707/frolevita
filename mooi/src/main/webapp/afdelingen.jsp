@@ -37,11 +37,11 @@
                             <td>17u00</td>
                         </tr>
                         <tr>
-                            <th>Rakwi</th>
-                            <th>2006-2008</th>
-                            <th>4e, 5e en 6e</th>
-                            <th>13u55</th>
-                            <th>17u00</th>
+                            <td>Rakwi</td>
+                            <td>2006-2008</td>
+                            <td>4e, 5e en 6e</td>
+                            <td>13u55</td>
+                            <td>17u00</td>
                         </tr>
                         <tr>
                             <td>Tito</td>
@@ -51,11 +51,11 @@
                             <td>18u00</td>
                         </tr>
                         <tr>
-                            <th>Keti</th>
-                            <th>2002-2003</th>
-                            <th>3e en 4e</th>
-                            <th>13u55</th>
-                            <th>19u00</th>
+                            <td>Keti</td>
+                            <td>2002-2003</td>
+                            <td>3e en 4e</td>
+                            <td>13u55</td>
+                            <td>19u00</td>
                         </tr>
                         <tr>
                             <td>Aspi</td>
