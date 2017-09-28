@@ -4,7 +4,6 @@
     Author     : Bram
 --%>
 
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <header>
@@ -21,13 +20,14 @@
                 </div>
                 <div class="collapse navbar-collapse navbar-ex1-collapse">
                     <ul class="nav navbar-nav">
-                        <li>Afdelingen</li>
-                        <li>Jaarthema</li>
-                        <li>Kalender</li>
-                        <li>Kamp info</li>
-                        <li>Verhuur</li>
-                        <li>Foto's</li>
-                        <li>Contact</li>
+                        <li><a href="index.jsp">Home</a></li>
+                        <li><a href="">Afdelingen</a></li>
+                        <li><a href="kalender.jsp">Kalender</a></li>
+                        <li><a href="">Jaarthema</a></li>
+                        <li><a href="">Kamp info</a></li>
+                        <li><a href="">Verhuur</a></li>
+                        <li><a href="">Foto's</a></li>
+                        <li><a href="">Contact</a></li>
                     </ul>
                 </div>
             </nav>

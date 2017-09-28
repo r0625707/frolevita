@@ -2,11 +2,11 @@
 
 <!DOCTYPE html>
 <html lang="nl">
-<head>
-    <title>Kalender - Chiro Frolevita Haacht</title>
-</head>
-<body>
-    
-</body>
+    <jsp:include page="head.jsp">
+        <jsp:param name="title" value="Chiro Haacht | Kalender"/>
+    </jsp:include>
+    <body>
+        <%@include file="header.jsp"%>
+    </body>
 
 </html>
