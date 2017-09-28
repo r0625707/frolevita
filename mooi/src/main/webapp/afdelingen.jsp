@@ -22,7 +22,7 @@
                         <emph>Opgelet</emph>: Deze afdelingen hebben verschillende einduren
                     </p>
 
-                     <div id="accordion">
+                     <div class="panel-group" id="accordion">
                         <div class="panel panel-default">
                             <div class="panel-heading">
                                 <h4 class="panel-title">
@@ -64,6 +64,14 @@
                                 </ul>
                                 </div>
                                 </div>
+                            </div>
+                        </div>
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="rakwi">Test</a></h4>
+                            </div>
+                            <div id="rakwi" class="panel-collapse collapse">
+                                <p>test</p>
                             </div>
                         </div>
                      </div>
