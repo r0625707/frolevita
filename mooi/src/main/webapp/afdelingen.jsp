@@ -21,7 +21,7 @@
                         die ingedeeld zijn volgens leeftijd.
                         <emph>Opgelet</emph>: Deze afdelingen hebben verschillende einduren
                     </p>
-                    <table>
+                    <table class="table table-striped">
                         <tr>
                             <th>Groep</th>
                             <th>Geboortejaar</th>

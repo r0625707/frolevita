@@ -26,7 +26,6 @@
                         <li><a href="jaarthema.jsp">Jaarthema</a></li>
                         <li><a href="kampinfo.jsp">Kamp info</a></li>
                         <li><a href="verhuur.jsp">Verhuur</a></li>
-                        <li><a href="fotos.jsp">Foto's</a></li>
                         <li><a href="contact.jsp">Contact</a></li>
                     </ul>
                 </div>
