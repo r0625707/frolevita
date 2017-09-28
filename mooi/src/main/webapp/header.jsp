@@ -21,13 +21,13 @@
                 <div class="collapse navbar-collapse navbar-ex1-collapse">
                     <ul class="nav navbar-nav">
                         <li><a href="index.jsp">Home</a></li>
-                        <li><a href="">Afdelingen</a></li>
+                        <li><a href="afdelingen.jsp">Afdelingen</a></li>
                         <li><a href="kalender.jsp">Kalender</a></li>
-                        <li><a href="">Jaarthema</a></li>
-                        <li><a href="">Kamp info</a></li>
-                        <li><a href="">Verhuur</a></li>
-                        <li><a href="">Foto's</a></li>
-                        <li><a href="">Contact</a></li>
+                        <li><a href="jaarthema.jsp">Jaarthema</a></li>
+                        <li><a href="kampinfo.jsp">Kamp info</a></li>
+                        <li><a href="verhuur.jsp">Verhuur</a></li>
+                        <li><a href="fotos.jsp">Foto's</a></li>
+                        <li><a href="contact.jsp">Contact</a></li>
                     </ul>
                 </div>
             </nav>
