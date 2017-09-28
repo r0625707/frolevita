@@ -29,7 +29,7 @@
                             <th>Beginuur</th>
                             <th>Einduur</th>
                         </tr>
-                        <tr data-toglle="collapse" data-target="#speelclub_leiding">
+                        <tr data-toggle="collapse" data-target="#speelclub_leiding">
                             <td>Speelclub</td>
                             <td>2009-2011</td>
                             <td>1e, 2e en 3e</td>
@@ -70,6 +70,7 @@
                     </table>
 
                      <div class="panel-group" id="accordion">
+     <div id="accordion">
       <div class="panel panel-default">
         <div class="panel-heading">
           <h4 class="panel-title">
@@ -137,6 +138,7 @@
     </div>
   </div>
 </div>
+     </div>
                 </div>
             </div>
         </div>
