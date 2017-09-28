@@ -14,6 +14,7 @@
                 <hr/>
                 <a href="mailto:chirofrolevita@yahoo.com">chirofrolevita@yahoo.com</a>
                 <a target="_blank" href="https://facebook.com/chiro.frolevitahaacht"><i class="fa fa-facebook-square"></i></a>
+                <br/>
             </div>
         </div>
     </footer>

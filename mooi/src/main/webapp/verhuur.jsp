@@ -38,8 +38,8 @@
                         </div>
                         <p>Voor meer informatie en prijzen kan u terecht bij;</p>
                         <ul>
-                            <li><a href="mailto:lien-wouters@hotmail.com">lien-wouters@hotmail.com</li>
-                            <li><a href="mailto:brogniet.mathilde@gmail.com">brogniet.mathilde@gmail.com</li>
+                            <li><a href="mailto:lien-wouters@hotmail.com">lien-wouters@hotmail.com</a></li>
+                            <li><a href="mailto:brogniet.mathilde@gmail.com">brogniet.mathilde@gmail.com</a></li>
                         </ul>
                     </div>
                 </div>
