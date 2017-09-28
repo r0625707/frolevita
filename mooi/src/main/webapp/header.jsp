@@ -21,7 +21,6 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav">
                     <li><a class="navbar-brand" href="index.jsp"><img src="./files/chiro_logo.png"></a></li>
-                    <li><a href="index.jsp">Home</a></li>
                     <li><a href="afdelingen.jsp">Afdelingen</a></li>
                     <li><a href="kalender.jsp">Kalender</a></li>
                     <li><a href="jaarthema.jsp">Jaarthema</a></li>

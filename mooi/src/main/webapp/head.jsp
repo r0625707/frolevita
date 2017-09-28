@@ -14,5 +14,6 @@
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <script src="http://code.jquery.com/jquery.js"></script>
         <script src="${pageContext.request.contextPath}/files/bootstrap.js"></script>
+        <link rel="stylesheet" href="style.css">
     </head>
 </html>

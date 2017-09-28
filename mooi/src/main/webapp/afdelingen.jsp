@@ -80,11 +80,14 @@
                                 <div class="panel-body">
                                     <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
 
+                                        <h3>Info</h3>
                                 <ul>
                                     <li>Geboortejaar: 2006-2008</li>
                                     <li>4e, 5e en 6e leerjaar</li>
                                     <li>Uren: 13u55 - 17u00</li>
                                 </ul>
+                                    </div>
+                                    <div class="leiding col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                 <h3>Leiding</h3>
                                 <ul>
 
@@ -110,6 +113,9 @@
                                 </li>
 
                                 </ul>
+                                </div>
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                    <img class="leiding" src="http://via.placeholder.com/350x150">
                                 </div>
                                 </div>
                             </div>
