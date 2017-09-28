@@ -63,6 +63,9 @@
 
                                 </ul>
                                 </div>
+                                <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                    <img src="http://via.placeholder.com/350x150">
+                                </div>
                                 </div>
                             </div>
                         </div>
