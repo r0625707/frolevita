@@ -12,7 +12,13 @@
     </jsp:include>
     <body>
         <%@include file="header.jsp" %>
-        <h1>Kemp!</h1>
-        <p>Dit jaar gaan we weer op kamp! Van 31 juli tot 10 augustus. Houd onze Facebook-pagina en site in de gaten voor meer informatie</p>
+        <div class="container">
+            <div class="row">
+                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6">
+                    <h1>Kemp!</h1>
+                    <p>Dit jaar gaan we weer op kamp! Van 31 juli tot 10 augustus. Houd onze Facebook-pagina en site in de gaten voor meer informatie</p>
+                </div>
+            </div>
+        </div>
     </body>
 </html>
