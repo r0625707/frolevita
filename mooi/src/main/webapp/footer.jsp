@@ -7,14 +7,18 @@
 <!DOCTYPE html>
 <html>
     <footer class="text-center">
+        <hr>
         <div class="container">
-            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                <hr/>
-                <p>Copyright &COPY; braftbak nv. 2017 all rights reserved.</p>
-                <hr/>
-                <a href="mailto:chirofrolevita@yahoo.com">chirofrolevita@yahoo.com</a>
-                <a target="_blank" href="https://facebook.com/chiro.frolevitahaacht"><i class="fa fa-facebook-square"></i></a>
-                <br/>
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                    <a target="_blank" href="https://facebook.com/chiro.frolevitahaacht"><i class="fa fa-facebook-square" style="font-size: 48px"></i></a>
+                    <a href="mailto:chirofrolevita@yahoo.com">chirofrolevita@yahoo.com</a>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                    
+                    <p>Copyright &COPY; braftbak nv. 2017 all rights reserved.</p>
+                </div>
+                <hr>
             </div>
         </div>
     </footer>
