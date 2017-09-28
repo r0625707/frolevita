@@ -68,7 +68,7 @@
                         </div>
                         <div class="panel panel-default">
                             <div class="panel-heading">
-                                <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="rakwi">Test</a></h4>
+                                <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion" href="#rakwi">Test</a></h4>
                             </div>
                             <div id="rakwi" class="panel-collapse collapse">
                                 <p>test</p>
