@@ -29,13 +29,16 @@
                             <th>Beginuur</th>
                             <th>Einduur</th>
                         </tr>
-                        <tr>
+                        <tr data-toglle="collapse" data-target="#speelclub_leiding">
                             <td>Speelclub</td>
                             <td>2009-2011</td>
                             <td>1e, 2e en 3e</td>
                             <td>13u55</td>
                             <td>17u00</td>
                         </tr>
+                        <div id="speelclub_leiding" class="collapse">
+                            <h2>test</h2>
+                        </div>
                         <tr>
                             <td>Rakwi</td>
                             <td>2006-2008</td>
