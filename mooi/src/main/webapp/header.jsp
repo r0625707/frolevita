@@ -24,7 +24,8 @@
                     <li><a id="${param.jaarthema}" href="jaarthema.jsp">Jaarthema</a></li>
                     <li><a id="${param.kampinfo}" href="kampinfo.jsp">Kamp info</a></li>
                     <li><a id="${param.verhuur}" href="verhuur.jsp">Verhuur</a></li>
-                    <li><a id="${param.contact}" href="contact.jsp">Info & Contact</a></li>
+                    <li><a id="${param.info}" href="info.jsp">Info & Links</a></li>
+                    <li><a id="${param.contact}" href="contact.jsp">Contact</a></li>
                 </ul>
             </div>
         </nav>
