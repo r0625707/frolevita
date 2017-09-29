@@ -15,5 +15,6 @@
         <script src="http://code.jquery.com/jquery.js"></script>
         <script src="${pageContext.request.contextPath}/files/bootstrap.js"></script>
         <link rel="stylesheet" href="style.css">
+        <link rel="icon" href="files/chiro_logo.png" type="image/x-icon"/>
     </head>
 </html>
