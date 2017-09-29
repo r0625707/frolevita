@@ -8,7 +8,7 @@
 <!DOCTYPE html>
 <html>
     <jsp:include page="head.jsp">
-        <jsp:param name="title" value="Chiro Haacht | Home"/>
+        <jsp:param name="title" value="Chiro Haacht | Afdelingen"/>
     </jsp:include>
     <body>
         <jsp:include page="header.jsp">
