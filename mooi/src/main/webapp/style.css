@@ -1,6 +1,26 @@
+body{
+    background-color: white;
+}
+
 .navbar-default {
     padding-top: 2rem;
     padding-bottom: 2rem;
+}
+
+#navbar > li > a {
+    color: white;
+}
+
+#navbar > li > a#current{
+    background-color: white;
+    color: #E10026;
+}
+
+#navbar > li > a:hover {
+    background-color: white;
+    color: #E10026;
+    transition: ease-in-out;
+    transition-duration: 0.2s;
 }
 
 .navbar-brand {
