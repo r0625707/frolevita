@@ -19,6 +19,7 @@
             </div>
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav" id="navbar">
+                    <li><a id="${param.home}" href="index.jsp">Home</a></li>
                     <li><a id="${param.afdelingen}" href="afdelingen.jsp">Afdelingen</a></li>
                     <li><a id="${param.kalender}" href="kalender.jsp">Kalender</a></li>
                     <li><a id="${param.jaarthema}" href="jaarthema.jsp">Jaarthema</a></li>

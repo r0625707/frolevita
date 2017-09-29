@@ -38,7 +38,7 @@
                             <img src="http://via.placeholder.com/350x150">
                             <img src="http://via.placeholder.com/350x150">
                         </div>
-                        <p>Voor meer informatie en prijzen kan u terecht bij;</p>
+                        <p>Voor meer informatie en prijzen kan je terecht bij;</p>
                         <ul>
                             <li><a href="mailto:lien-wouters@hotmail.com">lien-wouters@hotmail.com</a></li>
                             <li><a href="mailto:brogniet.mathilde@gmail.com">brogniet.mathilde@gmail.com</a></li>
