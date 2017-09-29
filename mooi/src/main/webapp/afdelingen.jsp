@@ -64,7 +64,7 @@
                                 </ul>
                                 </div>
                                 <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                    <img src="http://via.placeholder.com/350x150">
+                                    <img src="http://via.placeholder.com/350x150" class="img-responsive">
                                 </div>
                                 </div>
                             </div>
@@ -115,7 +115,7 @@
                                 </ul>
                                 </div>
                                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                    <img class="leiding" src="http://via.placeholder.com/350x150">
+                                    <img class="leiding img-responsive" src="http://via.placeholder.com/350x150">
                                 </div>
                                 </div>
                             </div>
