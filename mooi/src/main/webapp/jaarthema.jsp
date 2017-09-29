@@ -11,7 +11,9 @@
         <jsp:param name="title" value="Chiro Haacht | Iedereen Chironaut"/>
     </jsp:include>
     <body>
-        <%@include file="header.jsp" %>
+        <jsp:include page="header.jsp">
+            <jsp:param name="jaarthema" value="current"/>
+        </jsp:include>
         <div class="container">
             <div class="row">
                 <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6">
