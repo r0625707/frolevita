@@ -16,7 +16,7 @@
         </jsp:include>
         <div class="container">
             <div class="row">
-                <div class="col-xs-12 col-sm-12 col-md-8 col-lg-6">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                     <h1>Afdelingen</h1>
                     <p>
                         Chiro Frolevita Haacht telt 5 verschillende afdelingen, 
@@ -26,9 +26,9 @@
 
                      <div class="panel-group" id="accordion">
                         <div class="panel panel-default">
-                            <div class="panel-heading">
+                            <div class="panel-heading" style="background-color: #ffff82;">
                                 <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion" href="#speelclub">Speelclub</a>
+                                    <a data-toggle="collapse" data-parent="#accordion" href="#speelclub"><strong>Speelclub</strong></a>
                                 </h4>
                             </div>
                             <div id="speelclub" class="panel-collapse collapse">
@@ -73,9 +73,9 @@
                         </div>
  
                         <div class="panel panel-default">
-                            <div class="panel-heading">
+                            <div class="panel-heading" style="background-color: #75ff75;">
                                 <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion"href="#rakwi">Rakwi's</a>
+                                    <a data-toggle="collapse" data-parent="#accordion"href="#rakwi"><strong>Rakwi's</strong></a>
                                 </h4>
                             </div>
                             <div id="rakwi" class="panel-collapse collapse">
@@ -123,9 +123,9 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading">
+                            <div class="panel-heading" style="background-color: #ff4949;">
                                 <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion"href="#tito">Tito's</a>
+                                    <a data-toggle="collapse" data-parent="#accordion"href="#tito"><strong>Tito's</strong></a>
                                 </h4>
                             </div>
                             <div id="tito" class="panel-collapse collapse">
@@ -167,9 +167,9 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading">
+                            <div class="panel-heading" style="background-color: #5b5bff;">
                                 <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion"href="#keti">Keti's</a>
+                                    <a data-toggle="collapse" data-parent="#accordion"href="#keti"><strong>Keti's</strong></a>
                                 </h4>
                             </div>
                             <div id="keti" class="panel-collapse collapse">
@@ -204,9 +204,9 @@
                             </div>
                         </div>
                         <div class="panel panel-default">
-                            <div class="panel-heading">
+                            <div class="panel-heading" style="background-color: #ffbc49;">
                                 <h4 class="panel-title">
-                                    <a data-toggle="collapse" data-parent="#accordion"href="#aspi">Aspi's</a>
+                                    <a data-toggle="collapse" data-parent="#accordion"href="#aspi"><strong>Aspi's</strong></a>
                                 </h4>
                             </div>
                             <div id="aspi" class="panel-collapse collapse">

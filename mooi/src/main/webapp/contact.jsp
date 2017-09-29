@@ -26,7 +26,7 @@
             </div>
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12" id="info">
-                    <div class="well">
+                    <div>
                         <h2>Info</h2>
                         <hr/>
 
