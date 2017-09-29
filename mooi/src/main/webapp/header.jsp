@@ -19,14 +19,21 @@
             </div>
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav" id="navbar">
-                    <li><a id="${param.home}" href="index.jsp">Home</a></li>
-                    <li><a id="${param.afdelingen}" href="afdelingen.jsp">Afdelingen</a></li>
-                    <li><a id="${param.kalender}" href="kalender.jsp">Kalender</a></li>
-                    <li><a id="${param.jaarthema}" href="jaarthema.jsp">Jaarthema</a></li>
-                    <li><a id="${param.kampinfo}" href="kampinfo.jsp">Kamp info</a></li>
-                    <li><a id="${param.verhuur}" href="verhuur.jsp">Verhuur</a></li>
-                    <li><a id="${param.info}" href="info.jsp">Info & Links</a></li>
-                    <li><a id="${param.contact}" href="contact.jsp">Contact</a></li>
+                    <li><a id="${param.home}" href="index.jsp"><i class="fa fa-home" aria-hidden="true"></i> Home</a></li>
+                    <li><a id="${param.afdelingen}" href="afdelingen.jsp"><i class="fa fa-list" aria-hidden="true"></i>
+                            Afdelingen</a></li>
+                    <li><a id="${param.kalender}" href="kalender.jsp"><i class="fa fa-calendar" aria-hidden="true"></i>
+                            Kalender</a></li>
+                    <li><a id="${param.jaarthema}" href="jaarthema.jsp"><i class="fa fa-reddit-alien" aria-hidden="true"></i>
+                            Jaarthema</a></li>
+                    <li><a id="${param.kampinfo}" href="kampinfo.jsp"><i class="fa fa-fire" aria-hidden="true"></i>
+                            Kamp info</a></li>
+                    <li><a id="${param.verhuur}" href="verhuur.jsp"><i class="fa fa-arrow-circle-right" aria-hidden="true"></i>
+                            Verhuur</a></li>
+                    <li><a id="${param.info}" href="info.jsp"><i class="fa fa-info-circle" aria-hidden="true"></i>
+                            Info & Links</a></li>
+                    <li><a id="${param.contact}" href="contact.jsp"><i class="fa fa-address-card" aria-hidden="true"></i>
+                            Contact</a></li>
                 </ul>
             </div>
         </nav>
