@@ -33,48 +33,48 @@
                             </div>
                             <div id="speelclub" class="panel-collapse collapse">
                                 <div class="panel-body">
-                                <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                <h3>Algemene info</h3>
-                                <ul>
-                                    <li>Geboortejaar: 2009-2011</li>
-                                    <li>1e, 2e en 3e leerjaar</li>
-                                    <li>Uren: 13u55 - 17u00</li>
-                                </ul>
-                            </div>
-                            <div class="leiding col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                <h3>Leiding</h3>
-                                <ul>
+                                    <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                        <h3>Algemene info</h3>
+                                        <ul>
+                                            <li>Geboortejaar: 2009-2011</li>
+                                            <li>1e, 2e en 3e leerjaar</li>
+                                            <li>Uren: 13u55 - 17u00</li>
+                                        </ul>
+                                    </div>
+                                    <div class="leiding col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                        <h3>Leiding</h3>
+                                        <ul>
 
-                                <li>
-                                <ul>
-                                    <li>Bartold Vandenplas </li>
-                                    <li>0474/27 21 78</li>
-                                    <li>email</li>
-                                </ul>
-                                </li>
+                                            <li>
+                                                <ul>
+                                                    <li>Bartold Vandenplas </li>
+                                                    <li>0474/27 21 78</li>
+                                                    <li>email</li>
+                                                </ul>
+                                            </li>
 
-                                <li>
-                                <ul>
-                                    <li>Emma Laps</li>
-                                    <li>04 ziede van hier</li>
-                                    <li>email</li>
-                                </ul>
-                                </li>
+                                            <li>
+                                                <ul>
+                                                    <li>Emma Laps</li>
+                                                    <li>04 ziede van hier</li>
+                                                    <li>email</li>
+                                                </ul>
+                                            </li>
 
-                                <li>
-                                <ul>
-                                    <li>Lisa Salien</li>
-                                    <li>04 neej beter</li>
-                                    <li>email</li>
-                                </ul>
-                                </li>
+                                            <li>
+                                                <ul>
+                                                    <li>Lisa Salien</li>
+                                                    <li>04 neej beter</li>
+                                                    <li>email</li>
+                                                </ul>
+                                            </li>
 
-                                </ul>
-                            </div>
-                            <div class="info col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                <img src="files/leiding_speelclub.jpg" class="img-responsive">
-                            </div>
-                            </div>
+                                        </ul>
+                                    </div>
+                                    <div class="info col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                        <img src="files/leiding_speelclub.jpg" class="img-responsive">
+                                    </div>
+                                </div>
                             </div>
                         </div>
 
@@ -96,38 +96,38 @@
                                         </ul>
                                     </div>
                                     <div class="leiding col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                <h3>Leiding</h3>
-                                <ul>
+                                        <h3>Leiding</h3>
+                                        <ul>
 
-                                <li>
-                                <ul>
-                                    <li>Hanne Huberland</li>
-                                    <li>0474/27 21 78</li>
-                                    <li>email</li>
-                                </ul>
-                                </li>
+                                            <li>
+                                                <ul>
+                                                    <li>Hanne Huberland</li>
+                                                    <li>0474/27 21 78</li>
+                                                    <li>email</li>
+                                                </ul>
+                                            </li>
 
-                                <li>
-                                <ul>
-                                    <li>Shari Schreine</li>
-                                    <li>04 ziede van hier</li>
-                                    <li>email</li>
-                                </ul>
-                                </li>
+                                            <li>
+                                                <ul>
+                                                    <li>Shari Schreine</li>
+                                                    <li>04 ziede van hier</li>
+                                                    <li>email</li>
+                                                </ul>
+                                            </li>
 
-                                <li>
-                                <ul>
-                                    <li>Len Bastiaens</li>
-                                    <li>04 neej beter</li>
-                                    <li>email</li>
-                                </ul>
-                                </li>
+                                            <li>
+                                                <ul>
+                                                    <li>Len Bastiaens</li>
+                                                    <li>04 neej beter</li>
+                                                    <li>email</li>
+                                                </ul>
+                                            </li>
 
-                                </ul>
-                                </div>
-                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                    <img class="leiding img-responsive" src="files/leiding_rakwi.jpg">
-                                </div>
+                                        </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                        <img class="leiding img-responsive" src="files/leiding_rakwi.jpg">
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -175,7 +175,7 @@
 
                                         </ul>
                                     </div>
-                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                         <img class="leiding img-responsive" src="files/leiding_tito.jpg">
                                     </div>
                                 </div>
@@ -217,10 +217,10 @@
                                             </li>
 
                                         </ul>
-                                        </div>
-                                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                            <img class="leiding img-responsive" src="files/leiding_keti.jpg">
-                                        </div>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                        <img class="leiding img-responsive" src="files/leiding_keti.jpg">
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -264,7 +264,6 @@
                                     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                         <img class="leiding img-responsive" src="files/leiding_aspi.jpg">
                                     </div>
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -273,6 +272,7 @@
                 <%@include file="fbfeed.jsp" %>
             </div>
         </div>
-    </body>
-    <%@include file="footer.jsp" %>
+    </div>
+</body>
+<%@include file="footer.jsp" %>
 </html>
