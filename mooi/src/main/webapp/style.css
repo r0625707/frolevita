@@ -27,6 +27,7 @@ body{
     margin-top: -2.5rem;
 }
 
-img.leiding {
-    margin: auto;
+ul ul {
+    list-style-type: none;
+    padding-left: 0;
 }

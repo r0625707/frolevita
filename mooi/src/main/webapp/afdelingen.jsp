@@ -34,11 +34,14 @@
                             <div id="speelclub" class="panel-collapse collapse">
                                 <div class="panel-body">
                                 <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                <h3>Algemene info</h3>
                                 <ul>
                                     <li>Geboortejaar: 2009-2011</li>
                                     <li>1e, 2e en 3e leerjaar</li>
                                     <li>Uren: 13u55 - 17u00</li>
                                 </ul>
+                            </div>
+                            <div class="leiding col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                 <h3>Leiding</h3>
                                 <ul>
 
@@ -46,6 +49,7 @@
                                 <ul>
                                     <li>Bartold Vandenplas </li>
                                     <li>0474/27 21 78</li>
+                                    <li>email</li>
                                 </ul>
                                 </li>
 
@@ -53,6 +57,7 @@
                                 <ul>
                                     <li>Emma Laps</li>
                                     <li>04 ziede van hier</li>
+                                    <li>email</li>
                                 </ul>
                                 </li>
 
@@ -60,15 +65,16 @@
                                 <ul>
                                     <li>Lisa Salien</li>
                                     <li>04 neej beter</li>
+                                    <li>email</li>
                                 </ul>
                                 </li>
 
                                 </ul>
-                                </div>
-                                <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                    <img src="http://via.placeholder.com/350x150" class="img-responsive">
-                                </div>
-                                </div>
+                            </div>
+                            <div class="info col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                <img src="files/leiding_speelclub.jpg" class="img-responsive">
+                            </div>
+                            </div>
                             </div>
                         </div>
 
@@ -82,7 +88,7 @@
                                 <div class="panel-body">
                                     <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
 
-                                        <h3>Info</h3>
+                                        <h3>Algemene info</h3>
                                         <ul>
                                             <li>Geboortejaar: 2006-2008</li>
                                             <li>4e, 5e en 6e leerjaar</li>
@@ -97,6 +103,7 @@
                                 <ul>
                                     <li>Hanne Huberland</li>
                                     <li>0474/27 21 78</li>
+                                    <li>email</li>
                                 </ul>
                                 </li>
 
@@ -104,6 +111,7 @@
                                 <ul>
                                     <li>Shari Schreine</li>
                                     <li>04 ziede van hier</li>
+                                    <li>email</li>
                                 </ul>
                                 </li>
 
@@ -111,13 +119,14 @@
                                 <ul>
                                     <li>Len Bastiaens</li>
                                     <li>04 neej beter</li>
+                                    <li>email</li>
                                 </ul>
                                 </li>
 
                                 </ul>
                                 </div>
                                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                    <img class="leiding img-responsive" src="http://via.placeholder.com/350x150">
+                                    <img class="leiding img-responsive" src="files/leiding_rakwi.jpg">
                                 </div>
                                 </div>
                             </div>
@@ -132,11 +141,14 @@
                                 <div class="panel-body">
                                     <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
 
+                                        <h3>Algemene info</h3>
                                         <ul>
                                             <li>Geboortejaar: 2004-2005</li>
                                             <li>1e en 2e middelbaar</li>
                                             <li>Uren: 13u55 - 18u00</li>
                                         </ul>
+                                    </div>
+                                    <div class="leiding col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <h3>Leiding</h3>
                                         <ul>
 
@@ -163,6 +175,9 @@
 
                                         </ul>
                                     </div>
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                        <img class="leiding img-responsive" src="files/leiding_tito.jpg">
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -176,11 +191,14 @@
                                 <div class="panel-body">
                                     <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
 
+                                        <h3>Algemene info</h3>
                                         <ul>
                                             <li>Geboortejaar: 2002-2003</li>
                                             <li>3e en 4e middelbaar</li>
                                             <li>Uren: 13u55 - 19u00</li>
                                         </ul>
+                                    </div>
+                                    <div class="leiding col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <h3>Leiding</h3>
                                         <ul>
 
@@ -199,7 +217,10 @@
                                             </li>
 
                                         </ul>
-                                    </div>
+                                        </div>
+                                        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                            <img class="leiding img-responsive" src="files/leiding_keti.jpg">
+                                        </div>
                                 </div>
                             </div>
                         </div>
@@ -213,11 +234,14 @@
                                 <div class="panel-body">
                                     <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
 
+                                        <h3>Algemene info</h3>
                                         <ul>
                                             <li>Geboortejaar: 2000-2001</li>
                                             <li>5e en 6e middelbaar</li>
                                             <li>Uren: 13u55 - 19u00</li>
                                         </ul>
+                                    </div>
+                                    <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <h3>Leiding</h3>
                                         <ul>
 
@@ -236,6 +260,10 @@
                                             </li>
 
                                         </ul>
+                                    </div>
+                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                        <img class="leiding img-responsive" src="files/leiding_aspi.jpg">
+                                    </div>
                                     </div>
                                 </div>
                             </div>
