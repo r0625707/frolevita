@@ -1,4 +1,4 @@
-# frolevita
+# Frolevita - project MOOI
 
 ## Branches
 De bedoeling is dat er een webhook komt op de Master branch voor automated deployment met Jenkins.
