@@ -40,8 +40,6 @@
                                             <li>1e, 2e en 3e leerjaar</li>
                                             <li>Uren: 13u55 - 17u00</li>
                                         </ul>
-                                    </div>
-                                    <div class="leiding col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <h3>Leiding</h3>
                                         <ul>
 
@@ -68,11 +66,10 @@
                                                     <li>email</li>
                                                 </ul>
                                             </li>
-
                                         </ul>
                                     </div>
-                                    <div class="info col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <img src="files/leiding_speelclub.jpg" class="img-responsive">
+                                    <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                        <img src="files/leiding_speelclub.jpg" class="leiding img-responsive">
                                     </div>
                                 </div>
                             </div>
@@ -94,8 +91,6 @@
                                             <li>4e, 5e en 6e leerjaar</li>
                                             <li>Uren: 13u55 - 17u00</li>
                                         </ul>
-                                    </div>
-                                    <div class="leiding col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <h3>Leiding</h3>
                                         <ul>
 
@@ -125,8 +120,8 @@
 
                                         </ul>
                                     </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                                        <img class="leiding img-responsive" src="files/leiding_rakwi.jpg">
+                                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+                                        <img class="leiding img-responsive" src="files/leiding_rakwi.jpg"/>
                                     </div>
                                 </div>
                             </div>
@@ -140,15 +135,12 @@
                             <div id="tito" class="panel-collapse collapse">
                                 <div class="panel-body">
                                     <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
-
                                         <h3>Algemene info</h3>
                                         <ul>
                                             <li>Geboortejaar: 2004-2005</li>
                                             <li>1e en 2e middelbaar</li>
                                             <li>Uren: 13u55 - 18u00</li>
                                         </ul>
-                                    </div>
-                                    <div class="leiding col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <h3>Leiding</h3>
                                         <ul>
 
@@ -175,7 +167,7 @@
 
                                         </ul>
                                     </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <img class="leiding img-responsive" src="files/leiding_tito.jpg">
                                     </div>
                                 </div>
@@ -197,8 +189,6 @@
                                             <li>3e en 4e middelbaar</li>
                                             <li>Uren: 13u55 - 19u00</li>
                                         </ul>
-                                    </div>
-                                    <div class="leiding col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <h3>Leiding</h3>
                                         <ul>
 
@@ -218,7 +208,7 @@
 
                                         </ul>
                                     </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <img class="leiding img-responsive" src="files/leiding_keti.jpg">
                                     </div>
                                 </div>
@@ -240,8 +230,6 @@
                                             <li>5e en 6e middelbaar</li>
                                             <li>Uren: 13u55 - 19u00</li>
                                         </ul>
-                                    </div>
-                                    <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <h3>Leiding</h3>
                                         <ul>
 
@@ -261,7 +249,7 @@
 
                                         </ul>
                                     </div>
-                                    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                                    <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
                                         <img class="leiding img-responsive" src="files/leiding_aspi.jpg">
                                     </div>
                                 </div>
@@ -272,7 +260,6 @@
                 <%@include file="fbfeed.jsp" %>
             </div>
         </div>
-    </div>
-</body>
-<%@include file="footer.jsp" %>
+    </body>
+    <%@include file="footer.jsp" %>
 </html>
