@@ -15,4 +15,6 @@
         <hr>
         <p>Copyright &COPY; braftbak nv. 2017 all rights reserved.</p>
     </footer>
+    <script src="${pageContext.request.contextPath}/js/jquery.js"></script>
+    <script src="${pageContext.request.contextPath}/js/bootstrap.js"></script>
 </html>

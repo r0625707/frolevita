@@ -15,7 +15,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-left" href="index.jsp"><img class="img img-responsive" width="50px" src="./files/logo-wit-root_0.png"></a>
+                <a class="navbar-left" href="index.jsp"><img class="img img-responsive" width="50px" src="${pageContext.request.contextPath}/img/logo-wit-root_0.png"></a>
             </div>
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav" id="navbar">

@@ -17,7 +17,7 @@
                         <p>Bekijk hieronder de kalender t.e.m. 21 januari, of download hem <a target="_blank" href="files/Jaarkalender Chiro.pdf">hier</a>.</p>
                     </div>
                     <div>
-                        <iframe class="col-lg-12 col-md-12 col-sm-12 col-xs-12" height="600" style="border: 0" src="files/Jaarkalender Chiro.pdf"></iframe>
+                        <iframe class="col-lg-12 col-md-12 col-sm-12 col-xs-12" height="600" style="border: 0" src="${pageContext.request.contextPath}/doc/Jaarkalender Chiro.pdf"></iframe>
                     </div>
                 </div>
                 <%@include file="fbfeed.jsp" %>

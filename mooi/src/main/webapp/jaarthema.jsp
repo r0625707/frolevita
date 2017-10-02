@@ -24,7 +24,7 @@
                     <p><a target="_blank" href="https://chiro.be/node/74861">Het jaarthemalied!</a></p>
                 </div>
                 <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-                    <img class="img img-responsive" style="padding: 20px;" src="files/jaarthema_opnaaier.png"/>
+                    <img class="img img-responsive" style="padding: 20px;" src="${pageContext.request.contextPath}/img/jaarthema_opnaaier.png"/>
                 </div>
                 <%@include file="fbfeed.jsp" %>
             </div>

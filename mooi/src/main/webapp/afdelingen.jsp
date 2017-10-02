@@ -69,7 +69,7 @@
                                         </ul>
                                     </div>
                                     <div class="info col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                        <img src="files/leiding_speelclub.jpg" class="leiding img-responsive">
+                                        <img src="${pageContext.request.contextPath}/img/leiding_speelclub.jpg" class="leiding img-responsive">
                                     </div>
                                 </div>
                             </div>
@@ -121,7 +121,7 @@
                                         </ul>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                        <img class="leiding img-responsive" src="files/leiding_rakwi.jpg"/>
+                                        <img class="leiding img-responsive" src="${pageContext.request.contextPath}/img/leiding_rakwi.jpg"/>
                                     </div>
                                 </div>
                             </div>
@@ -168,7 +168,7 @@
                                         </ul>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                        <img class="leiding img-responsive" src="files/leiding_tito.jpg">
+                                        <img class="leiding img-responsive" src="${pageContext.request.contextPath}/img/leiding_tito.jpg">
                                     </div>
                                 </div>
                             </div>
@@ -209,7 +209,7 @@
                                         </ul>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                        <img class="leiding img-responsive" src="files/leiding_keti.jpg">
+                                        <img class="leiding img-responsive" src="${pageContext.request.contextPath}/img/leiding_keti.jpg">
                                     </div>
                                 </div>
                             </div>
@@ -250,7 +250,7 @@
                                         </ul>
                                     </div>
                                     <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                                        <img class="leiding img-responsive" src="files/leiding_aspi.jpg">
+                                        <img class="leiding img-responsive" src="${pageContext.request.contextPath}/img/leiding_aspi.jpg">
                                     </div>
                                 </div>
                             </div>

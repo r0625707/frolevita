@@ -36,7 +36,7 @@
                                 </ul>
                             </li>
                         </ul>
-                        <img src="files/hoofdleiding.jpg" class="leiding img-responsive"/>
+                        <img src="${pageContext.request.contextPath}/img/hoofdleiding.jpg" class="leiding img-responsive"/>
                         <h3>Volwassen begeleiders</h3>
                         <ul>
                             <li>Sanne Antonus:
