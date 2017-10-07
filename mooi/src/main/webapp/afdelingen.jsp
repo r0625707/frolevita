@@ -54,16 +54,16 @@
                                             <li>
                                                 <ul>
                                                     <li>Emma Laps</li>
-                                                    <li>04 ziede van hier</li>
-                                                    <li>email</li>
+                                                    <li>0479/30 41 40</li>
+                                                    <li>emma.laps@live.be</li>
                                                 </ul>
                                             </li>
 
                                             <li>
                                                 <ul>
                                                     <li>Lisa Salien</li>
-                                                    <li>04 neej beter</li>
-                                                    <li>email</li>
+                                                    <li>0489/99 00 01</li>
+                                                    <li>salien.lisa@live.be</li>
                                                 </ul>
                                             </li>
                                         </ul>
@@ -97,24 +97,24 @@
                                             <li>
                                                 <ul>
                                                     <li>Hanne Huberland</li>
-                                                    <li>0474/27 21 78</li>
-                                                    <li>email</li>
+                                                    <li>0499/05 05 96</li>
+                                                    <li>hanne_huberland@hotmail.com</li>
                                                 </ul>
                                             </li>
 
                                             <li>
                                                 <ul>
                                                     <li>Shari Schreine</li>
-                                                    <li>04 ziede van hier</li>
-                                                    <li>email</li>
+                                                    <li>0472/92 23 39</li>
+                                                    <li>shari.schreine@hotmail.com</li>
                                                 </ul>
                                             </li>
 
                                             <li>
                                                 <ul>
                                                     <li>Len Bastiaens</li>
-                                                    <li>04 neej beter</li>
-                                                    <li>email</li>
+                                                    <li>0474/82 55 06</li>
+                                                    <li>len.bastiaens@hotmail.com</li>
                                                 </ul>
                                             </li>
 
@@ -147,21 +147,24 @@
                                             <li>
                                                 <ul>
                                                     <li>Katrien Laps</li>
-                                                    <li>0474/27 21 78</li>
+                                                    <li>0471/02 04 72</li>
+                                                    <li>katrienlaps@gmail.com</li>
                                                 </ul>
                                             </li>
 
                                             <li>
                                                 <ul>
                                                     <li>Evert Wouters</li>
-                                                    <li>04 ziede van hier</li>
+                                                    <li>0495/37 23 48</li>
+                                                    <li>woutersevert@gmail.com</li>
                                                 </ul>
                                             </li>
 
                                             <li>
                                                 <ul>
                                                     <li>Lien Wouters</li>
-                                                    <li>04 neej beter</li>
+                                                    <li>0479/23 76 79</li>
+                                                    <li>lien-wouters@hotmail.com</li>
                                                 </ul>
                                             </li>
 
@@ -195,14 +198,16 @@
                                             <li>
                                                 <ul>
                                                     <li>Robbe Huberland</li>
-                                                    <li>0474/27 21 78</li>
+                                                    <li>0476/90 54 45</li>
+                                                    <li>robbehuberland1@gmail.com</li>
                                                 </ul>
                                             </li>
 
                                             <li>
                                                 <ul>
                                                     <li>Mathilde Brogniet</li>
-                                                    <li>04 ziede van hier</li>
+                                                    <li>0471/18 40 89</li>
+                                                    <li>brogniet.mathilde@gmail.com</li>
                                                 </ul>
                                             </li>
 
@@ -236,14 +241,16 @@
                                             <li>
                                                 <ul>
                                                     <li>Ella Hawinkel</li>
-                                                    <li>0474/27 21 78</li>
+                                                    <li>0471/46 03 67</li>
+                                                    <li>ella.hawinkel@gmail.com</li>
                                                 </ul>
                                             </li>
 
                                             <li>
                                                 <ul>
                                                     <li>Karen Bosmans</li>
-                                                    <li>04 ziede van hier</li>
+                                                    <li>0491/12 34 85</li>
+                                                    <li>bosmanskaren98@gmail.com</li>
                                                 </ul>
                                             </li>
 
