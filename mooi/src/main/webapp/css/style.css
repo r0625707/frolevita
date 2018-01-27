@@ -43,3 +43,7 @@ a {
 a:hover {
     color: black;
 }
+
+h4.panel-title {
+    color: white;
+}
